@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Helvetica;
+    border: 2px solid red;
+    margin: 20px;
+}
+
+header {
+    margin: 30px 10px;
+    padding: 20px 0;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    color: khaki;
+    background-image: url(images/pattern.jpeg);
+    
+}
+
+#container {
+    margin: 0 10px 20px 10px;
+
+}
+
+h2  {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: left;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+h3 {
+    margin: 10px 0;
+    font-weight: bold;
+}
+
+em {
+    color: blue;
+    font-weight: bold;
+}
+
+.brushes h2 {
+    background-color: mediumspringgreen;
+}
+
+.frames h2 {
+    background-color: lightcoral;
+}
+
+.paints h2 {
+    background-color: skyblue;
+}
